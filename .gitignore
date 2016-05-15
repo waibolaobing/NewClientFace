@@ -4,7 +4,10 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-
+.idea
+target
+*.iml
+.gitignore
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
